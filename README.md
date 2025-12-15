@@ -1,7 +1,7 @@
 # Hey, I’m Taran 👋
 
 I’m an Electrical Engineering & Computer Science student at **Duke University**, interested in
-machine learning, systems, and building technology with real-world social impact.
+machine learning, data engineering, and building technology with real-world social impact.
 
 ---
 
