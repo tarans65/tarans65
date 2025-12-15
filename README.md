@@ -1,27 +1,41 @@
 # Hey, I’m Taran 👋
 
-I’m an Electrical Engineering & Computer Science student at Duke University, interested in
-machine learning, systems, and technology for social impact.
+I’m an Electrical Engineering & Computer Science student at **Duke University**, interested in
+machine learning, systems, and building technology with real-world social impact.
 
 ---
 
-**## 📘 Coursework @ Duke University
-- **ECE / CS**: EGR 101: Engineering Design & Communication, CS 201: Data Structures & Algorithms, ECE/CS 250: Computer Architecture, ECE 110: Fundamentals of Electrical and Computer Engineering, ECE 280: Signals and Systems
+## 📘 Coursework @ Duke University
 
-- **ML & AI**: ECE 480L: Applied Probability for Machine Learning**
+**Electrical & Computer Engineering / Computer Science**
+- EGR 101 — Engineering Design & Communication  
+- CS 201 — Data Structures & Algorithms  
+- ECE/CS 250 — Computer Architecture  
+- ECE 110 — Fundamentals of Electrical & Computer Engineering  
+- ECE 280 — Signals & Systems  
+
+**Machine Learning & Probability**
+- ECE 480L — Applied Probability for Machine Learning  
 
 ---
 
 ## 🚀 Highlighted Projects
-- **Earthquake Early Warning System** — Arduino + MQTT + Flask + Gaussian Processes  
-- **Leukemia Combination Therapy Modeling** — ODE simulations & data analysis  
-- **PennyPals** — React Native + Express app for shared expenses  
+
+- **Earthquake Early Warning System**  
+  Arduino sensor network with MQTT, Flask backend, and Gaussian Process modeling for real-time detection  
+
+- **Leukemia Combination Therapy Modeling**  
+  Mathematical and computational ODE-based simulations analyzing treatment efficacy  
+
+- **PennyPals**  
+  React Native + Express application for managing shared expenses and subscriptions  
 
 ---
 
 ## 🧪 Research & Writing
-- AI & law articles (Undergraduate Law Review)
-- Epidemics, public policy, and computational modeling
+
+- AI, law, and technology articles — *Undergraduate Law Review*  
+- Research interests in epidemics, public policy, and computational modeling  
 
 ---
 
@@ -37,6 +51,15 @@ machine learning, systems, and technology for social impact.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌐 Links
+
+- 🌍 Personal Website: https://taransrikonda.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/taran-srikonda-ab4564234
+
 
 ---
 
