@@ -5,10 +5,10 @@ machine learning, systems, and technology for social impact.
 
 ---
 
-## 📘 Coursework
-- **ECE / CS**: Data Structures, Computer Systems, Operating Systems
-- **ML & AI**: Applied ML, AI, Elements of Machine Learning
-- **Research**: Mathematical & computational modeling
+**## 📘 Coursework @ Duke University
+- **ECE / CS**: EGR 101: Engineering Design & Communication, CS 201: Data Structures & Algorithms, ECE/CS 250: Computer Architecture, ECE 110: Fundamentals of Electrical and Computer Engineering, ECE 280: Signals and Systems
+
+- **ML & AI**: ECE 480L: Applied Probability for Machine Learning**
 
 ---
 
