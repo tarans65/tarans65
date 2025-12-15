@@ -44,7 +44,7 @@ Software Engineering, AI & Machine Learning, Data Engineering, and building tech
 - **[Artificial Intelligence's Intersection with National Security & Warfare](https://www.dukeundergraduatelawreview.com/online-journal/artificial-intelligences-intersection-with-national-security-amp-warfare)**  
 - **[The Legal and Ethical Challenges of AI in Healthcare: Liability, Privacy, and Regulatory Frameworks](https://www.dukeundergraduatelawreview.com/online-journal/the-legal-and-ethical-challenges-of-ai-in-healthcare-liability-privacy-and-regulatory-frameworks)**  
 
-Research interests include AI governance, public policy, epidemics, and computational modeling.
+Research interests include AI governance, public policy, and computational/mathematical modeling.
 
 ---
 
@@ -78,9 +78,9 @@ Research interests include AI governance, public policy, epidemics, and computat
 
 ## 📜 Certifications
 
-- CompTIA A+  
-- CompTIA Security+  
-- Cisco Certified Network Associate (CCNA)  
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
