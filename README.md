@@ -37,7 +37,7 @@ Software Engineering, AI & Machine Learning, Data Engineering, and building tech
 
 ## 🧪 Research & Writing
 
-**Undergraduate Law Review — AI & Technology**
+**Duke Undergraduate Law Review — AI & Technology**
 
 - **[Artificial Intelligence and Intellectual Property Law: Exploring the Legal Implications and Challenges](https://www.dukeundergraduatelawreview.com/online-journal/12mh5r50o8blmui5oergqjk8yzsak2)**  
 - **[Balancing Justice: The Role of Artificial Intelligence in the Courtroom](https://www.dukeundergraduatelawreview.com/online-journal/balancing-justice-the-role-of-artificial-intelligence-in-the-courtroom)**  
