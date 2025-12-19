@@ -1,6 +1,6 @@
 # Hey, I’m Taran 👋
 
-I’m an Electrical Engineering & Computer Science student at **Duke University**, interested in
+I’m an Electrical & Computer Engineering and Computer Science student at **Duke University**, interested in
 Software Engineering, AI & Machine Learning, Data Engineering, and building technology with real-world social impact!
 
 ---
