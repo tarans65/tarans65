@@ -11,11 +11,16 @@ Software Engineering, AI & Machine Learning, Data Engineering, and building tech
 - EGR 101 — Engineering Design & Communication  
 - CS 201 — Data Structures & Algorithms  
 - ECE/CS 250 — Computer Architecture  
-- ECE 110 — Fundamentals of Electrical & Computer Engineering  
-- ECE 280 — Signals & Systems  
+- ECE 110 — Fundamentals of Electrical & Computer Engineering
+- ECE 230 - Introduction to Microelectronic Devices and Circuits
+- ECE 280 — Signals & Systems
+- ECE 657 - Human-Centered Security and Privacy
+
 
 **Machine Learning & Probability**
-- ECE 480L — Applied Probability for Machine Learning  
+- ECE 480 — Applied Probability for Machine Learning
+- ECE 682 - Probabilistic Machine Learning
+  
 
 ---
 
