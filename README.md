@@ -7,7 +7,7 @@ Software Engineering, AI & Machine Learning, Data Engineering, and building tech
 
 ## 📘 Coursework @ Duke University
 
-**Electrical and Computer Engineering & Computer Science**
+**Electrical & Computer Engineering & Computer Science**
 - EGR 101 — Engineering Design & Communication  
 - CS 201 — Data Structures & Algorithms  
 - ECE/CS 250 — Computer Architecture  
