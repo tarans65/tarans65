@@ -5,6 +5,27 @@ Software Engineering, AI & Machine Learning, Data Engineering, and building tech
 
 ---
 
+## 💼 Experience
+
+**Microsoft** — Software Engineer Intern · *Summer 2026*  
+Azure Silicon Cloud Hardware Infrastructure Engineering (SCHIE): Computer Hardware, Enterprise Software and Solutions (CHESS).
+
+**Frizzle (YC S25)** — Software Engineering Intern · *Dec 2025 – Present*  
+`Python` `OCR (Tesseract)` `LangGraph` `LangSmith` `FastAPI`
+- Built a hybrid vision + OCR system for automated PII redaction in educational data, using GPT-4o for semantic name detection and geometric alignment to blur handwritten student identifiers in scanned worksheets.
+- Designed notebook-first prototypes and batch evaluation workflows to productionize AI features safely, with error handling for inconsistent LLM responses, coordinate normalization, and privacy-first fallbacks.
+
+**IMC Launchpad** — Software Engineering Cohort · *May 2026*  
+Selected as 1 of 30 participants for a program focused on low-latency systems and software engineering in high-frequency trading.
+
+**ManTech International** — Software Engineering Intern · *May 2024 – Aug 2025*  
+`Java` `Python` `Ghidra` `Wireshark` `React` `SQL` `Bash` `Git` `Autopsy`
+- Reverse engineered 10+ binary applications in Ghidra, using assembly analysis and instruction patching to identify vulnerabilities and embedded logic flaws.
+- Analyzed 5,000+ network packets in Wireshark to uncover hidden communications and files, improving forensic detection accuracy.
+- Developed file-identification scripts using header/footer recognition across 5+ formats (PDF, PNG, ZIP, etc.) to accelerate malware triage.
+
+---
+
 ## 📘 Coursework @ Duke University
 
 **Electrical & Computer Engineering & Computer Science**
@@ -71,6 +92,7 @@ Research interests include AI governance, public policy, and computational/mathe
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
@@ -92,6 +114,4 @@ Research interests include AI governance, public policy, and computational/mathe
 ## 🌐 Links
 
 - 🌍 Personal Website: https://taransrikonda.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/taran-srikonda-ab4564234  
-
-
+- 💼 LinkedIn: https://www.linkedin.com/in/taran-srikonda-ab4564234
