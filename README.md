@@ -8,7 +8,7 @@ Software Engineering, AI & Machine Learning, Data Engineering, and building tech
 ## 💼 Experience
 
 **Microsoft** — Software Engineer Intern · *Summer 2026*
-- Joining the Azure Silicon Cloud Hardware Infrastructure Engineering (SCHIE) team, within Computer Hardware, Enterprise Software and Solutions (CHESS).
+- Azure Silicon Cloud Hardware Infrastructure Engineering (SCHIE) team, within Computer Hardware, Enterprise Software and Solutions (CHESS).
 
 **Frizzle (YC S25)** — Software Engineering Intern · *Dec 2025 – Present*  
 `Python` `OCR (Tesseract)` `LangGraph` `LangSmith` `FastAPI`
